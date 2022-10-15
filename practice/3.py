@@ -4,7 +4,7 @@ speed(0)
 bgcolor('black')
 color('red')
 
-for i in range (500):
+for i in range (1000):
     fd(i*2/2+1)
     lt(360/2+1.50)
 
